@@ -1,6 +1,6 @@
 # phpbb-ads
 
-Toto je můj vlastní český překlad pluginu "Advertisment Management" ve verzi 2.0.2 pro fórum phpbb.
+Toto je můj vlastní český překlad pluginu "Advertisment Management" ve verzi 2.0.2 pro fórum phpbb 3.2.0 a novější.
 
 Překlad je použit například na stránce: http://forum.powerack.cz
 
